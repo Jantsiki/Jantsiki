@@ -1,8 +1,8 @@
 - 👋  Hi, I’m @Jantsiki
-- 👀  I’m interested in nature, sports and work.
-- 🌱  I’m currently learning coding.
-- 💞️  I’m looking to collaborate on game designing projects as a graphic designer.
-- 📫  Finnish, English, Swedish
+- 👀  Interest: graphic design, coding and cybersec. 
+- 🌱  I’m looking to collaborate on designing projects as a graphic designer.
+- 💞️  Computing and games.
+- 📫  Finnish, English, Swedish, Russian
 
 <!---
 Jantsiki/Jantsiki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
